@@ -1,0 +1,3 @@
+O TAD dicionário modela uma coleção “buscável” de itens chave-elemento.
+As principais operações em dicionários são busca, inserção e remoção de itens.
+O TAD mapa armazena um elemento criando uma chave, onde o TAD Dicionário pode efetuar a busca dessa chave.
