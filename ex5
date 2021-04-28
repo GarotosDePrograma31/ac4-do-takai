@@ -1,0 +1,3 @@
+Não, a arvore T não é um Heap, ela teria que obedecer pelo menos uma das regras abaixo:
+- O nó Pai possui seu elemento maior que o de seus filhos
+- O nó Pai tem o seu elemento menor que o de seus filhos
