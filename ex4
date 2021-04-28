@@ -1,0 +1,1 @@
+Em uma heap, o elemento de prioridade mais alta (ou mais baixa) é sempre armazenado na raiz. No entanto, uma heap não é uma estrutura classificada, ela pode ser considerada parcialmente ordenada.
