@@ -1,0 +1,1 @@
+Em uma Heap, o processo de inserção segue uma lógica, onde a árvore binária deve estar inteira. Se por acaso algum nível não estiver completo, ocasionará uma alteração no processo, onde a inserção se dá da direita para a esquerda. É fundamental que a inserção aconteça da esquerda para à direita.
